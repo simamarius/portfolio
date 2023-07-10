@@ -10,18 +10,18 @@ https://danielsima.netlify.app/
 
 
 ## Screenshots of projects in this portfolio
-
+### Build Masters in React
 ![App Screenshot](https://danielsima.netlify.app/assets/img/portfolio/build-master%20(4).png)
 
-
+### Rent a car web app
 ![App Screenshot](https://danielsima.netlify.app/assets/img/portfolio/rentappdesign.png)
-
+### DD Leasing Website
 ![App Screenshot](https://danielsima.netlify.app/assets/img/portfolio/ddleasing%20(1).png)
-
+### Football Scoreboard
 ![App Screenshot](https://danielsima.netlify.app/assets/img/portfolio/scoretable1.png)
-
+### Calculator
 ![App Screenshot](https://danielsima.netlify.app/assets/img/portfolio/calculator.png)
-
+### Units Convertor
 ![App Screenshot](https://danielsima.netlify.app/assets/img/portfolio/convert.png)
 
 
