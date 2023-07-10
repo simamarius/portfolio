@@ -8,10 +8,15 @@ Portfolio created with my projects, I update it when I add another project to th
 
 https://danielsima.netlify.app/
 
+
 ## Screenshots
-![App Screenshot](danielsima.netlify.app_ (1).png)
 
+### Desktop
+![App Screenshot](https://github.com/simamarius/portfolio/blob/main/danielsima.netlify.app_.png?raw=true)
 
+### Mobile
+
+![App Screenshot](https://github.com/simamarius/portfolio/blob/main/danielsima.netlify.app_%20(1).png?raw=true)
 ## Screenshots of projects in this portfolio
 ### Build Masters in React
 ![App Screenshot](https://danielsima.netlify.app/assets/img/portfolio/build-master%20(4).png)
@@ -26,8 +31,6 @@ https://danielsima.netlify.app/
 ![App Screenshot](https://danielsima.netlify.app/assets/img/portfolio/calculator.png)
 ### Units Convertor
 ![App Screenshot](https://danielsima.netlify.app/assets/img/portfolio/convert.png)
-
-
 
 ## Authors
 
