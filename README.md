@@ -8,6 +8,9 @@ Portfolio created with my projects, I update it when I add another project to th
 
 https://danielsima.netlify.app/
 
+## Screenshots
+![App Screenshot](danielsima.netlify.app_ (1).png)
+
 
 ## Screenshots of projects in this portfolio
 ### Build Masters in React
