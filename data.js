@@ -37,10 +37,17 @@ var obiect = {
     },
     item6: {
       src: "assets/img/portfolio/convert.png",
-      titlu: "Units Covertor",
+      titlu: "Units Convertor",
       descriere: "HTML-CSS-JS",
       pagina: "pages-projects/portfolio6.html",
       category: "filter-web"
+    },
+    item7: {
+      src: "assets/img/portfolio/blackjack2.png",
+      titlu: "BlackJack Game",
+      descriere: "HTML-CSS-JS",
+      pagina: "pages-projects/portfolio7.html",
+      category: "filter-apps"
     }
   };
   
