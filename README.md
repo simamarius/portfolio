@@ -31,7 +31,8 @@ https://danielsima.netlify.app/
 ![App Screenshot](https://danielsima.netlify.app/assets/img/portfolio/calculator.png)
 ### Units Convertor
 ![App Screenshot](https://danielsima.netlify.app/assets/img/portfolio/convert.png)
-
+### BlackJack Game
+![App Screenshot](https://danielsima.netlify.app/assets/img/portfolio/blackjack.png)
 ## Authors
 
 - [@simamarius](https://www.github.com/simamarius)
